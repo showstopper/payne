@@ -1,0 +1,7 @@
+print 18 
+i = 0
+if True:
+    if i == 0:
+        print 27
+    end
+end

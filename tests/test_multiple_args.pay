@@ -1,0 +1,6 @@
+def my_func(arg1, arg2):
+    print arg1
+    print arg2
+    return arg2 - arg1
+end
+print my_func(7, 15)

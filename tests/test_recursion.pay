@@ -1,0 +1,7 @@
+def fak(val):
+    if (val == 1):
+        return 1
+    end
+    return (val * fak(val-1))
+end
+print fak(4)
